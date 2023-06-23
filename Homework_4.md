@@ -2,7 +2,7 @@
 
 1. Настроить сеть согласно схеме в файле с помощью OSPF и VLAN. Починить неработающие линки. https://disk.yandex.ru/d/IQdns-ljqsBFFg
 
-[s3_homework](https://github.com/NadezhdaUimina/Computer-networks/blob/main/s3_homework.pkt)
+[s3_homework.pkt](https://github.com/NadezhdaUimina/Computer-networks/blob/main/s3_homework.pkt)
 
 2. Убедиться что трафик от компов до сервера ходит через два маршрута с помощью ЕСМР.
 
