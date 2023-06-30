@@ -8,6 +8,10 @@
 
 3. Отправьте мне код написанного сервера (можете через github, если удобно или прямо здесь в txt формате) и скриншоты работающего чата.
 
+[client.py](https://github.com/NadezhdaUimina/Computer-networks/blob/main/client.py)
+
+[server.py](https://github.com/NadezhdaUimina/Computer-networks/blob/main/server.py)
+
 4. Отследите сокеты с помощью команды netstat. (тоже пришлите скриншот именно сокетов вашего чата)
 
 ![скрин выполненой работы](Screen/Homework6-1.png)
