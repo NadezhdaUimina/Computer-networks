@@ -18,6 +18,8 @@ Office 4 - cеть 192.168.145.0/24
 
 Задача 2. Настроить PAT в Office 3 для компьютеров, чтобы они выходили в интернет под одним публичным IP адресом на Router1.
 
+[s5_homework.pkt](https://github.com/NadezhdaUimina/Computer-networks/blob/main/c)
+
 Предоставить скриншот открытых страниц по HTTP и HTTPS по публичному адресу Router3 в веб-браузере клиентов Office3 (с РС1 и РС0)
 
 ![скрин выполненой работы](Screen/Homework7-1_1.png)
