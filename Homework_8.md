@@ -6,6 +6,8 @@
 
 Настроить сеть согласно информации на схеме (https://disk.yandex.ru/d/Vaxkf2X0RG9NGw .)
 
+[homework.pkt](https://github.com/NadezhdaUimina/Computer-networks/blob/main/homework.pkt)
+
 Сымитировать "Интернет" с помощью OSPF. Приватных сетей в маршрутизации быть не должно.
 
 Для компьютеров из Office 1 предоставить доступ в "Интернет" с помощью PAT.
@@ -18,12 +20,10 @@
 
 ![скрин выполненой работы](Screen/Homework8-2.png)
 
-![скрин выполненой работы](Screen/Homework8-3.png)
-
 Предоставить скриншот таблицы NAT трансляций с Router3.
 
-![скрин выполненой работы](Screen/Homework8-4.png)
+![скрин выполненой работы](Screen/Homework8-3.png)
 
 Предоставить скриншот таблицы маршрутизации с Router0.
 
-![скрин выполненой работы](Screen/Homework8-5.png)
+![скрин выполненой работы](Screen/Homework8-4.png)
